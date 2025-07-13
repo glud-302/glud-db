@@ -1,22 +1,28 @@
 {
-  "Salsa de soja": {
-    "priority": 10,
-    "diff": 1,
-    "category": "Salsas y complementos",
-    "content":
-    [
-      "La salsa de soja es un condimento producido mediante la fermentación de materias primas proteicas y almidonadas, y los ingredientes comúnmente utilizados incluyen soja, harina de soja, trigo y salvado.\n\nSu color marrón oscuro característico lo causan las melanoidinas y pigmentos de tonos marrones rojizos producidos. Por otra parte, los aminoácidos presentes en la salsa de soja no sólo son nutrientes necesarios para el cuerpo humano, sino que también le confieren un sabor umami. Además, durante el proceso de fermentación, debido a la acción de microorganismos, se generan varios compuestos de bajo peso molecular como ácidos, alcoholes y fenoles, que enriquecen el sabor.",
-      "Existen dos tipos de salsa de soja principales, la clara y la oscura, cuyas diferencias radican en su proceso de fermentación, y por ende, en el color y sabor resultantes.\n\n· Proceso de fermentación: La salsa de soja oscura generalmente se fermenta durante un período más prolongado que la salsa de soja clara. Durante este proceso, los ingredientes principales, como la soja y el trigo, fermentan y desarrollan un sabor más complejo y profundo.\n· Sabor y color: La salsa de soja oscura tiende a tener un sabor más intenso, así como un color más oscuro y profundo, que puede variar desde un marrón rojizo hasta casi negro. Por otro lado, la salsa de soja clara tiene un sabor más suave y umami, y un color más claro, que puede ser ámbar o dorado. Debido a sus diferencias en sabor y color, las salsas de soja clara y oscura se utilizan en diferentes tipos de platos. La salsa de soja oscura se prefiere a menudo en platos de carne, guisos, marinados y platos de cocción lenta, donde su sabor profundo puede realzar el sabor de los ingredientes, mientras que la salsa de soja clara se usa más comúnmente en platos como sopas, aderezos y platos de mariscos, donde su sabor más suave y su color más claro no dominarán otros sabores.\n\nEn resumen, la diferencia entre la salsa de soja clara y oscura radica en su proceso de fermentación, sabor, color y los tipos de platos en los que se utilizan comúnmente."
-    ]
-  },
   "0 - Título": {
-    "priority": 100,
-    "diff": 1,
-    "category": "Título",
-    "content":
-    [
-      "Contenido",
-      "Contenido"
-    ]
+    "priority": -1,
+    "entries": {
+      "A - Título": {
+        "diff": 1,
+        "content": [ "a" ]
+      },
+      "B - Título": {
+        "diff": 2,
+        "content": [ "a" ]
+      }
+    }
+  },
+  "1 - cocina de base": {
+    "priority": 1,
+    "entries": {
+      "A - Título": {
+        "diff": 1,
+        "content": [ "a" ]
+      },
+      "B - Título": {
+        "diff": 2,
+        "content": [ "a" ]
+      }
+    }
   }
 }
