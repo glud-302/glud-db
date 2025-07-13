@@ -4,24 +4,35 @@
     "entries": {
       "A - Título": {
         "diff": 1,
-        "content": [ "a" ]
-      },
-      "B - Título": {
-        "diff": 2,
-        "content": [ "a" ]
+        "content":
+        [
+          "a",
+          "b",
+          "c"
+        ]
       }
     }
   },
-  "1 - adios": {
+  "Título": {
     "priority": 1,
     "entries": {
       "A - Título": {
         "diff": 1,
-        "content": [ "a" ]
+        "content":
+        [
+          "a",
+          "b",
+          "c"
+        ]
       },
       "B - Título": {
         "diff": 2,
-        "content": [ "a" ]
+        "content":
+        [
+          "a",
+          "b",
+          "c"
+        ]
       }
     }
   }
