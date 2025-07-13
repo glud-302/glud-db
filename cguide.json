@@ -1,5 +1,6 @@
 {
   "Salsa de soja": {
+    "priority": 10,
     "diff": 1,
     "category": "Salsas y complementos",
     "content":
@@ -8,47 +9,8 @@
       "Existen dos tipos de salsa de soja principales, la clara y la oscura, cuyas diferencias radican en su proceso de fermentación, y por ende, en el color y sabor resultantes.\n\n· Proceso de fermentación: La salsa de soja oscura generalmente se fermenta durante un período más prolongado que la salsa de soja clara. Durante este proceso, los ingredientes principales, como la soja y el trigo, fermentan y desarrollan un sabor más complejo y profundo.\n· Sabor y color: La salsa de soja oscura tiende a tener un sabor más intenso, así como un color más oscuro y profundo, que puede variar desde un marrón rojizo hasta casi negro. Por otro lado, la salsa de soja clara tiene un sabor más suave y umami, y un color más claro, que puede ser ámbar o dorado. Debido a sus diferencias en sabor y color, las salsas de soja clara y oscura se utilizan en diferentes tipos de platos. La salsa de soja oscura se prefiere a menudo en platos de carne, guisos, marinados y platos de cocción lenta, donde su sabor profundo puede realzar el sabor de los ingredientes, mientras que la salsa de soja clara se usa más comúnmente en platos como sopas, aderezos y platos de mariscos, donde su sabor más suave y su color más claro no dominarán otros sabores.\n\nEn resumen, la diferencia entre la salsa de soja clara y oscura radica en su proceso de fermentación, sabor, color y los tipos de platos en los que se utilizan comúnmente."
     ]
   },
-  "Tipos de harinas": {
-    "diff": 1,
-    "category": "Básicos de la cocina",
-    "content":
-    [
-      "Generalmente la harina de trigo refinada es la más consumida y vendida, pero existen muchos tipos en el mercado tanto de trigo como de otros cereales. Cada tipo de harina, que además puede ser integral o sin gluten, tendrá diferentes usos en función de sus características y su comportamiento durante el cocinado.",
-      "Harina de trigo:  Es una de las más usadas en la elaboración de masas tanto dulces como saladas, y se obtiene de la molienda de granos de trigo.\n\nPor otra parte, la harina integral es harina de trigo que se obtiene de la molienda del grano de trigo completo, incluyendo el germen y el salvado.",
-      "Harina de maíz: Se obtiene de la molienda de granos de maíz, es una harina que no contiene gluten y por tanto ideal para celíacos.",
-      "Almidón de maíz (maicena): Tampoco contiene gluten, y se obtiene del maíz. Es muy versátil en la cocina, no sólo como espesante.",
-      "Harina de centeno: Es una harina oscura que se utiliza sobre todo en la elaboración de panes. Se suele mezclar con harina de trigo. Tiene un sabor un poco amargo muy característico.",
-      "Harina de arroz: Se obtiene de la molienda de granos de arroz que puede ser blanco o integral. No contiene gluten y es un buen espesante.",
-      "Harina de avena: La harina de avena es una harina que se suele utilizar en repostería. La avena es un cereal muy nutritivo ideal para galletas y tortitas.",
-      "Harina de garbanzo: Se utiliza mucho para rebozar y para sustituir al huevo en recetas veganas, y tampoco contiene gluten.",
-      "Harina de espelta: La espelta es una variedad de trigo. Contiene menos gluten pero no es apta para celiacos. Suele ser integral y más nutritiva."
-    ]
-  },
-  "Tipos de levaduras": {
-    "diff": 1,
-    "category": "Básicos de la cocina",
-    "content":
-    [
-      "Las levaduras son fermentos vivos comestibles, presentes de forma natural en el aire y los alimentos. La levadura reacciona químicamente con los azúcares de la harina, produciendo un gas, que es el que hace subir la masa del pan.\n\nLa levadura química no es una verdadera levadura ya que no contiene fermentos vivos. Se trata normalmente de bicarbonato y otros componentes que en contacto con la masa reaccionan liberando CO2 y esto hace que la masa quede esponjosa.\n\nLas levaduras naturales, tanto la prensada como la seca, tienen que actuar antes del horneado porque mueren a partir de los 50 grados. Es por eso que se necesita fermentar la masa antes de meterla al horno. La levadura química, sin embargo, actúa durante la cocción, por eso no sirve para hacer pan.",
-      "Levadura fresca (prensada): Normalmente viene en forma de bloque prensado y se debe conservar en la nevera. Tiene un periodo de caducidad corto, de aproximadamente 2 semanas. Antes de usarla hay que diluirla en agua templada para poderla añadir a la masa.\n\nUsa entre un 2% y un 4%, dependiendo del tipo de masa: para una masa de pan normal, 2% va bien, pero para pan especial sería un 4%.",
-      "Levadura seca: También se llama levadura de panadero. Es el mismo tipo de levadura que la fresca pero deshidratada y granulada. Tiene un periodo su periodo de caducidad largo. Se puede añadir directamente a la harina para el pan, no es necesario diluir en agua.\n\nSi usas levadura seca deberás usar la tercera parte de lo que usarías para la levadura fresca.",
-      "Levadura química: Normalmente se conoce como levadura tipo Royal, levadura química, como Baking Powder o polvos para hornear. Realmente no es una verdadera levadura sino un impulsor químico. Se utiliza para dar esponjosidad y volumen a recetas de repostería como bizcochos, magdalenas y galletas.",
-      "Bicarbonato sódico: El bicarbonato de uso alimentario unido a un líquido y a un ácido produce el mismo efecto que la levadura química. Se utiliza para dar esponjosidad y volumen en masas que llevan componentes ácidos como el yogur, zumo de naranja o limón o azúcar moreno. Tiene efecto inmediato."
-    ]
-  },
-  "Tipos de gelatinas": {
-    "diff": 1,
-    "category": "Básicos de la cocina",
-    "content":
-    [
-      "Las gelatinas son unas sustancias que se utilizan para dar consistencia a ciertas preparaciones. Su poder gelificante se mide en grados Bloom o Fuerza de gel, en una escala que va de 50 a 300. Cuanto más alto el valor, mayor poder de gelificación tendrá la gelatina.",
-      "Hojas de gelatina: Gelatina de origen animal que tiene un elevado contenido en proteínas. Se debe remojar en agua fría antes de utilizarlo. No tiene sabor ni color, y gelifica en frío. No cuaja con algunas frutas frescas como la piña y la papaya.",
-      "Gelatina en polvo: Otra gelatina animal, también llamada grenetina o gelatina instantánea. Se puede encontrar neutra, sin sabor, o de diferentes sabores. Al igual que las hojas de gelatina, no cuaja con algunas frutas frescas y gelifica en frío.",
-      "Agar-agar: Se trata de una gelatina vegetal obtenida a partir de un alga marina desecada, sin color ni sabor. Su poder gelificante es superior a las gelatinas animales, necesita hervir y gelifica en caliente. A diferencia de las animales, sí cuaja con frutas tropicales.",
-      "Goma xantana: Es un polisacárido que se utiliza como gelificante o espesante, especialmente en la industria alimentaria. Se puede emplear tanto en frío como en caliente, y puede dar cierto sabor amargo."
-    ]
-  },
   "0 - Título": {
+    "priority": 100,
     "diff": 1,
     "category": "Título",
     "content":
