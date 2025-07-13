@@ -1,4 +1,18 @@
 {
+  "Esenciales": {
+    "priority": 1,
+    "entries": {
+      "Básicos del cuchillo": {
+        "diff": 0,
+        "content": [
+          "Para una sujeción más precisa, no se coge el cuchillo por el mango sino que se cogen los dedos pulgar e índice y se sitúan en la parte más cercana al mango de la hoja, para que el cuchillo sea como una extensión de la mano.",
+          "Una vez en posición, los otros tres dedos deben colocarse en el mango en una posición natural y cómoda. Puedes probar a hacer unos cortes sobre una tabla de cortar para ir adaptándote al movimiento.",
+          "La otra mano nunca debe quedar extendida, porque así se es propenso a hacer cortes en los dedos. En su lugar, adopta una posición similar a una garra. Dejando el dedo corazón un poco más adelantado puedes crear una referencia de por dónde cortar para realizar movimientos más uniformes.",
+          "Para hacer un corte más suave puedes, en lugar de realizar un movimiento vertical, mover el cuchillo adelante y atrás. Si el cuchillo está suficientemente afilado debería cortar el alimento directamente, sin destrozarlo como sí podría pasar de la otra forma.\n\nConforme se vaya acercando el límite, coge algún trozo de pasta para saber si hay que sacarlo. Al fin y al cabo, la comida es una cuestión de gustos, así que sirve siguiendo tus preferencias."
+        ]
+      }
+    }
+  },
   "0 - Título": {
     "priority": -1,
     "entries": {
@@ -7,31 +21,7 @@
         "content":
         [
           "a",
-          "b",
-          "c"
-        ]
-      }
-    }
-  },
-  "Título": {
-    "priority": 1,
-    "entries": {
-      "A - Título": {
-        "diff": 1,
-        "content":
-        [
-          "a",
-          "b",
-          "c"
-        ]
-      },
-      "B - Título": {
-        "diff": 2,
-        "content":
-        [
-          "a",
-          "b",
-          "c"
+          "b"
         ]
       }
     }
