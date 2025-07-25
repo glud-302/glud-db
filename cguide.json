@@ -1,27 +1,69 @@
 {
-  "Esenciales": {
-    "priority": 1,
-    "entries": {
-      "Básicos del cuchillo": {
-        "diff": 0,
-        "content": [
-          "Para una sujeción más precisa, no se coge el cuchillo por el mango sino que se cogen los dedos pulgar e índice y se sitúan en la parte más cercana al mango de la hoja, para que el cuchillo sea como una extensión de la mano.",
-          "Una vez en posición, los otros tres dedos deben colocarse en el mango en una posición natural y cómoda. Puedes probar a hacer unos cortes sobre una tabla de cortar para ir adaptándote al movimiento.",
-          "La otra mano nunca debe quedar extendida, porque así se es propenso a hacer cortes en los dedos. En su lugar, adopta una posición similar a una garra. Dejando el dedo corazón un poco más adelantado puedes crear una referencia de por dónde cortar para realizar movimientos más uniformes.",
-          "Para hacer un corte más suave puedes, en lugar de realizar un movimiento vertical, mover el cuchillo adelante y atrás. Si el cuchillo está suficientemente afilado debería cortar el alimento directamente, sin destrozarlo como sí podría pasar de la otra forma.\n\nConforme se vaya acercando el límite, coge algún trozo de pasta para saber si hay que sacarlo. Al fin y al cabo, la comida es una cuestión de gustos, así que sirve siguiendo tus preferencias."
+  "Cocina de base": {
+    "priority": -1,
+    "entries":
+    {
+      "Tipos de cortes":
+      {
+        "diff": 1,
+        "content":
+        [
+          "Puede parecer irrelevante, pero los tipos de corte afectan a cómo sabrá una receta. No es lo mismo cortar una cebolla en trozos minúsculos (ciseler) que en trozos más grandes; no se dorarán igual, y lo mismo pasa con el resto de vegetales. Existen diferentes tipos de cortes, algunos de los cuales son los siguientes:\n\nCiseler:\n\nConsiste en hacer cortes lo más finos posibles a lo largo de la verdura, de forma que quede cada corte lo más pegado el uno del otro. Después se hace un corte transversal si la pieza es muy grande y se vuelve a cortar finamente. Para este tipo de corte es muy importante disponer de un cuchillo afilado.",
+          "p1"
+        ]
+      },
+      "A - Título":
+      {
+        "diff": 1,
+        "content":
+        [
+          "p100",
+          "p1"
+        ]
+      }
+    }
+  },
+  "Cuencos y boles": {
+    "priority": 50,
+    "entries":
+    {
+      "Introducción":
+      {
+        "diff": 1,
+        "content":
+        [
+          "Los cuencos son una tendencia que en algunos aspectos supera a los platos, ya que son una preparación relativamente rápida, apta para una comida o una cena y que permite cierto margen de creatividad. Ese es precisamente el secreto: lo más importante es que lo hagas a tu manera, aunque existen ciertas sugerencias para que siempre tengas éxito.\n\n1) Usa lo que tengas a mano (despensa, nevera...) como punto de partida.\n2) Prepara los componentes con antelación, y así improvisar cada bol será mucho más sencillo. Cocinar algunas bases, salsas o componentes a principio de semana puede salvarte alguna cena en días en los que no tengas mucho tiempo.\n3) Trata de usar colores y texturas diferentes, y así, además de rico, tendrás un plato visualmente atractivo.\n4) De vez en cuando, prueba algún tipo de dieta diferente: vegetariano, sin gluten... hay boles para todos los gustos. Intenta probar recetas más atrevidas o desconocidas.\n5) Una forma de tomar cuencos es añadir mucha decoración por encima, sí, pero lo mejor es añadir unos pocos menos ingredientes pero que sean frescos y de calidad.\n6) Usar encurtidos aporta un toque algo más ácido al bol, y pueden ser mucho más que usar simples pepinillos (por muy sabrosos que sean)."
+        ]
+      },
+      "Anatomía":
+      {
+        "diff": 1,
+        "content":
+        [
+          "Aunque no existen reglas fijas en este tipo de preparaciones, puedes seguir ciertas recomendaciones. Una proporción 1:1 entre base y toppings te asegurará que la base no se pierda y que los toppings no sean excesivamente protagónicos. Los mejores cuencos, los que tienen más sabor y son más interesantes en su textura, tienen elementos de las siguientes categorías:\n\n1) Base:\nCambiar la base hace que un bol sea completamente diferente. Añade la mitad de la salsa a la base y reserva la otra mitad para la decoración, y así todo el bol tendrá sabor. Buenas bases pueden ser verduras, arroz, fideos y caldos, pero también pueden hacer un buen papel como toppings, como sería añadir alubias a un bol con base de arroz o echar un poco de arroz salvaje a una cama de ensalada.\n\n2) Proteína:\nCambiar el corte de la proteína afectará a la textura final del bol, ya sea en cubos, finamente picada o hasta cortada en piezas grandes. Incluso sin carne, un bol vegano puede obtener grandes cantidades de proteína a partir del tofu, tempeh y legumbres.\n\n3) Verduras:\nLas verduras potencian el sabor, la apariencia y la textura del cuenco. No tengas miedo de combinar verduras crudas y cocinadas en el mismo bol, o de usar fruta en lugar de verdura. También puedes cambiar el corte, y de esta forma, aunque el ingrediente empleado sea el mismo, le aportará variedad a tus boles.\n\n4) Salsa:\nAdemás de aportarle sabor, la salsa puede darle carácter al bol. Puede ser tan simple como comprarla o tan compleja como haga falta, y su consistencia puede variar desde una fina vinagreta hasta una crema.\n\n5) Crujiente:\nUn bol puede estar perfectamente bueno sin este elemento, pero aunque sea opcional, es un añadido bastante recomendable. Puede ser simple, como unas finas rodajas de rábano o unos frutos secos, pero también pueden ser más complejos, como unos encurtidos caseros.\n\nSi decides preparar los componentes con antelación, ten presente que no todos los ingredientes se mantendrán frescos. En líneas generales, las proteínas, verduras y fideos duran alrededor de dos días, los cereales tres, las salsas 3 o más, y, por último, los toppings durarán 5 o más días. Empacar boles para la comida es sencillo, pero guarda las salsas y toppings aparte, ya que, de lo contrario, harán que la base se empape."
+        ]
+      },
+      "Decoración":
+      {
+        "diff": 1,
+        "content":
+        [
+          "El atractivo del bol no reside únicamente en el sabor; también debe ser agradable visualmente. Lo más fácil es echar los ingredientes en el bol sin ningún orden, pero puedes convertir un bol plano en un bol estético en cuestión de segundos.\n\n1) Separa los ingredientes en pequeños montones para resaltar sus colores y texturas. Agrupar los componentes muestra cada elemento por separado.\n\n2) Puedes cortar, picar o espolvorear hierbas sobre el bol, dando así un toque de color y un sabor más fresco.\n\n3) Si pones el arroz dentro de una taza medidora y le das la vuelta sobre un plato, quedará con la forma de la taza, dando un aspecto visual diferente.\n\n4) Añade texturas diferentes haciendo uso de los crujientes, idealmente diferentes ingredientes con diferentes tamaños cada uno, incluso entre aquellos del mismo tipo.\n\n5) Frutas y verduras frescas como la granada, el tomate, la naranja o el aguacate pueden aportar toda la paleta de colores del arcoíris al cuenco, haciéndolo agradable a la vista. Puedes probar diferentes colores de verduras comunes, como la remolacha dorada o la coliflor morada.\n\n6) Utiliza la salsa como toque final, rociándola en zigzag, en espiral o en puntos, creando un bol más colorido.\n\n7) Las frutas y verduras en láminas, como el aguacate, la pera y la manzana, se ven mejor dispuestas en abanico. Para ello, sujeta un extremo de las láminas y luego despliega las láminas hacia fuera."
         ]
       }
     }
   },
   "0 - Título": {
     "priority": -1,
-    "entries": {
-      "A - Título": {
+    "entries":
+    {
+      "A - Título":
+      {
         "diff": 1,
         "content":
         [
-          "a",
-          "b"
+          "p100",
+          "p1"
         ]
       }
     }
