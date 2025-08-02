@@ -1,6 +1,6 @@
 {
   "Cocina de base": {
-    "priority": -1,
+    "priority": -100,
     "entries":
     {
       "Tipos de cortes":
@@ -9,6 +9,8 @@
         "content":
         [
           "Puede parecer irrelevante, pero los tipos de corte afectan a cómo sabrá una receta. No es lo mismo cortar una cebolla en trozos minúsculos (ciseler) que en trozos más grandes; no se dorarán igual, y lo mismo pasa con el resto de vegetales. Existen diferentes tipos de cortes, algunos de los cuales son los siguientes:\n\nCiseler:\n\nConsiste en hacer cortes lo más finos posibles a lo largo de la verdura, de forma que quede cada corte lo más pegado el uno del otro. Después se hace un corte transversal si la pieza es muy grande y se vuelve a cortar finamente. Para este tipo de corte es muy importante disponer de un cuchillo afilado.",
+          "p1",
+          "p1",
           "p1"
         ]
       },
@@ -49,6 +51,60 @@
         "content":
         [
           "El atractivo del bol no reside únicamente en el sabor; también debe ser agradable visualmente. Lo más fácil es echar los ingredientes en el bol sin ningún orden, pero puedes convertir un bol plano en un bol estético en cuestión de segundos.\n\n1) Separa los ingredientes en pequeños montones para resaltar sus colores y texturas. Agrupar los componentes muestra cada elemento por separado.\n\n2) Puedes cortar, picar o espolvorear hierbas sobre el bol, dando así un toque de color y un sabor más fresco.\n\n3) Si pones el arroz dentro de una taza medidora y le das la vuelta sobre un plato, quedará con la forma de la taza, dando un aspecto visual diferente.\n\n4) Añade texturas diferentes haciendo uso de los crujientes, idealmente diferentes ingredientes con diferentes tamaños cada uno, incluso entre aquellos del mismo tipo.\n\n5) Frutas y verduras frescas como la granada, el tomate, la naranja o el aguacate pueden aportar toda la paleta de colores del arcoíris al cuenco, haciéndolo agradable a la vista. Puedes probar diferentes colores de verduras comunes, como la remolacha dorada o la coliflor morada.\n\n6) Utiliza la salsa como toque final, rociándola en zigzag, en espiral o en puntos, creando un bol más colorido.\n\n7) Las frutas y verduras en láminas, como el aguacate, la pera y la manzana, se ven mejor dispuestas en abanico. Para ello, sujeta un extremo de las láminas y luego despliega las láminas hacia fuera."
+        ]
+      }
+    }
+  },
+  "Superalimentos": {
+    "priority": 50,
+    "entries":
+    {
+      "Introducción":
+      {
+        "diff": 1,
+        "content":
+        [
+          "Los superalimentos son ingredientes que se consideran especialmente ricos en nutrientes, tales como antoxidantes, vitaminas y minerales. Aunque el término 'superalimento' se usa a menudo en marketing, muchos de estos alimentos ofrecen multitud de beneficios para la salud, siendo una gran adición para una dieta equilibrada. Es importante recalcar que este término puede resultar engañoso, ya que todos los alimentos pueden contribuir a una dieta equilibrada, y ninguno de los ingredientes puede reemplazar a una dieta saludable en su totalidad. Sin embargo, incluir algunos de los 'superalimentos' puede ser beneficioso por su cantidad y diversidad de nutrientes."
+        ]
+      },
+      "Aguacate":
+      {
+        "diff": 2,
+        "content":
+        [
+          "Los aguacates tienen unas 20 vitaminas y minerales, esenciales para una vida sana. Aunque tengan un alto contenido en grasa, pertenecen al grupo de las monoinsaturadas, un tipo de grasa que ayuda a reducir los altos niveles de colesterol, y por extensión, reduce el riesgo de enfermedades cardíacas. Los aguacates también son una fuente importante de fibra, tanto soluble como insoluble, vitales para una digestión eficaz. Y aunque no lo parezca, son buenos para la vista, gracias a su contenido en luteína y zeaxantina, dos antioxidantes que actúan contra la degeneración macular.\n\nDe él se obtiene aceite, que, a diferencia de otros tipos de aceite, se extrae de la pulpa, y no de las semillas. Cerca de un 70% del aceite son grasas monoinsaturadas, y además, se compone de parte de los nutrientes y antioxidantes del aguacate, lo que lo convierte en una opción viable para la dieta. Este aceite, aunque es perfecto como aliño para ensaladas, destaca como aceite para cocinar (debido a su alta estabilidad). Cuando los aceites alcanzan cierta temperatura, empiezan a quemarse y descomponerse, haciendo que no sólo se pierda valor nutricional, sino que también se generen compuestos tóxicos. El aceite de aguacate tiene un punto de humo de 270º, que es significativamente más alto que el resto de aceites, incluido el de oliva."
+        ]
+      },
+      "Granada":
+      {
+        "diff": 2,
+        "content":
+        [
+          "La granada es rica en multitud de vitaminas y minerales, incluyendo la vitamina B6, cobre, manganeso y fósforo, pero destaca especialmente en su alto contenido en antioxidantes. Las granadas tienen tres tipos de polifenoles, y hay estudios que demuestran su poder anticancerígeno, especialmente en la próstata. Estos antioxidantes son beneficiosos para reducir la presión sanguínea y para bajar el nivel de colesterol. El contenido en azúcares es alto, pero por suerte, sólo hace falta una pequeña cantidad para obtener beneficios."
+        ]
+      },
+      "Limón":
+      {
+        "diff": 2,
+        "content":
+        [
+          "Los limones llevan usándose como medicina miles de años, siendo el alto contenido en vitamina C su elemento más conocido, especialmente como cura para resfriados y gripes. La vitamina C es un antioxidante, y los limones también contienen flavonoides: juntos, estos compuestos neutralizan los radicales libres que causan enfermedades y envejecen las células. El ácido cítrico es bueno para limpiar el sistema digestivo, y un vaso de agua caliente con limón ayuda a depurar las toxinas de forma más eficiente. También se dice que el zumo de limón puede disolver las piedras de los riñones al quitar el ácido úrico que las causa.\n\nLos limones cuentan con un amplio arsenal de minerales, incluyendo el hierro y el cobre, esenciales para la producción de glóbulos rojos, magnesio, calcio, potasio y folato."
+        ]
+      },
+      "Pepino":
+      {
+        "diff": 2,
+        "content":
+        [
+          "El pepino suele pasar desapercibido cuando se habla de alimentos saludables. Se compone en un 96% de agua, y por eso mismo es un alimento que se ha tomado desde hace siglos para hidratarse. También presentan multitud de beneficios para la digestión, ya que, aunque apenas contienen calorías, tienen fibra soluble, que contribuye a tener una mayor sensación de saciedad. Son una gran fuente de potasio y magnesio, que ayudan a regular la presión sanguínea y a combatir el estrés. Comer pepino puede ayudar a reducir el colesterol gracias a su alto contenido en esteroles, y pueden combatir el cáncer gracias a los antioxidantes, incluyendo vitamina C y beta-carotenos."
+        ]
+      },
+      "Remolacha":
+      {
+        "diff": 2,
+        "content":
+        [
+          "Las remolachas son nutritivamente completas, y son una rica fuente de vitaminas y minerales, como la vitamina C, el potasio, el magnesio y el ácido fólico. Las hojas de la remolacha también son una excelente forma de tomar proteínas, hierro, cinc y calcio.\n\nDurante miles de años, la remolacha se ha usado con fines medicinales, y de hecho tenían razón: el rojo característico de la remolacha proviene de la betanina, que se cree que puede ayudar a combatir distintos tipos de cáncer y a limpiar el sistema digestivo. La remolacha, no obstante, tiene un alto contenido en azúcar (ronda el 10%, más alto que otras verduras), pero son de absorción lenta, por lo cual no provocan picos de glucosa en sangre."
         ]
       }
     }
