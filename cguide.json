@@ -109,6 +109,173 @@
       }
     }
   },
+  "Interacciones nutricionales entre compuestos": {
+    "priority": 50,
+    "entries":
+    {
+      "Introducción":
+      {
+        "diff": 1,
+        "content":
+        [
+          "Las interacciones entre nutrientes pueden potenciar o inhibir la absorción, biodisponibilidad y metabolismo de otros. Dicho claramente, no sólo hay que tener en cuenta lo que se come, sino con qué se combina, para optimizar la ingesta, teniendo en cuenta las combinaciones sinérgicas y antagónicas.\n\nDe entre estas combinaciones, como es de esperar, no todas son iguales: algunas son más críticas, como juntar hierro con calcio, y otras son menos relevantes."
+        ]
+      },
+      "Proteínas":
+      {
+        "diff": 3,
+        "content":
+        [
+          "· Carne y hierro:\nLas proteínas de origen animal (músculo) mejoran notablemente la absorción del hierro hemo (de mejor biodisponibilidad), fenómeno conocido como 'factor carne'. Por ejemplo, comer carne o añadirla a una comida vegetal incrementa en un 100-180% la captación de hierro en comparación con una proteína vegetal o láctea \\url{https://pubmed.ncbi.nlm.nih.gov/17056805/}. Este efecto se atribuye en parte a los péptidos de la carne, que mantienen el hierro soluble en el intestino.\n\n· Caseína y hierro:\nLa caseína de la leche se une fuertemente al hierro, reduciendo su biodisponibilidad. Estudios en modelos animales muestran que la caseína completa disminuye la absorción de hierro, mientras que sus péptidos (β-caseína) hidrolizados pueden moderar este efecto \\url{https://www.nature.com/articles/pr2005732}. Es decir, que el consumo de leche con fuentes de hierro puede inhibir su absorción.\n\n· Proteína y calcio:\nUna ingesta elevada de proteínas aumenta la absorción intestinal del calcio, pero también eleva la excreción urinaria de calcio. En ensayos controlados, al aumentar la proteína (de 0.7 a 2.1 g/kg) aumentó la absorción de calcio entre un 18 y un 26% \\url{https://pubmed.ncbi.nlm.nih.gov/12936953/}, generando hipercalciuria. Esto quiere decir que dietas muy altas en proteínas pueden incrementar la excreción renal de calcio a pesar de una mayor absorción intestinal."
+        ]
+      },
+      "Fibra":
+      {
+        "diff": 3,
+        "content":
+        [
+          "La fibra soluble (como la inulina y la pectina) se fermenta en el colon en ácidos grasos de cadena corta, que aumentan la solubilidad y absorción de calcio y magnesio \\url{https://pubmed.ncbi.nlm.nih.gov/15340751/}, mientras que la insoluble (en granos, legumbres y vegetales) enlaza minerales e inhibe su absorción por quelación (particularmente por los fitatos y oxalatos, que son potentes inhibidores de hierro, cinc y calcio) y por acelerar el tránsito intestinal \\url{https://pubmed.ncbi.nlm.nih.gov/20715598/}."
+        ]
+      },
+      "Lípidos y ácidos grasos":
+      {
+        "diff": 4,
+        "content":
+        [
+          "· Vitaminas liposolubles (A, D, E, K):\nLa absorción de las vitaminas liposolubles depende de la emulsión y formación de micelas con lípidos y sales biliares en el intestino \\url{https://www.ncbi.nlm.nih.gov/books/NBK534869/}. Por ello, tomar grasas junto a estas vitaminas mejora su absorción, y por eso dietas muy bajas en grasa (o malabsorciones de lípidos) reducen marcadamente la absorción de estas vitaminas.\n\n· Sinergias antioxidantes (vitaminas C y E):\nLos ácidos grasos poliinsaturados (omega-3, omega-6) son susceptibles a la peroxidación lipídica. La vitamina E (alfa-tocoferol) neutraliza radicales libres en los lípidos de membrana \\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC3156342/}, y a su vez, la vitamina C regenera la vitamina E oxidada, restaurando su capacidad antioxidante. Esto es importante, por ejemplo, en presencia de estrés oxidativo, ya que la vitamina C protege los lípidos y las proteínas al reciclar alfa-tocoferol activo.\n\n· Fitoesteroles:\nLos fitoesteroles inhiben la absorción intestinal de colesterol, pero también reducen ligeramente la absorción de carotenoides (10-16%) y vitamina E (7%) asociada a las lipoproteínas \\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5346416/}. Este efecto se debe en parte a la menor incorporación de las vitaminas liposolubles a las lipoproteínas al disminuir el colesterol circulante."
+        ]
+      },
+      "Alcohol":
+      {
+        "diff": 3,
+        "content":
+        [
+          "· Vitamina A:\nEl alcohol favorece la deficiencia de retinol por malnutrición y daño hepático. Los alcohólicos suelen tener bajos niveles de vitamina A, lo cual empeora la adaptación visual.\n\n· Vitaminas de complejo B:\nEl consumo excesivo de alcohol daña la mucosa intestinal, disminuyendo la absorción de tiamina, folatos, B6 y B12 \\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC6668887/}. Además, el alcohol inhibe transportadores de tiamina y agota cofactores metabólicos, lo que explica la alta incidencia de deficiencia de B1 y folato en alcohólicos, con consecuencias neurológicas (encefalopatía de Wernicke) y hematológicas (anemia megaloblástica).\n\nAdemás, el etanol aumenta la excreción urinaria de agua y sales, lo que puede incrementar aún más la pérdida de ciertos minerales y vitaminas hidrosolubles."
+        ]
+      },
+      "Vitaminas liposolubles (A, D, E, K)":
+      {
+        "diff": 3,
+        "content":
+        [
+          "· Vitamina A y cinc:\nEl cinc es esencial para el metabolismo de la vitamina A, ya que su deficiencia grave reduce los niveles de vitamina A en animales a pesar de llevar una dieta con valores adecuados de vitamina A \\url{https://pubmed.ncbi.nlm.nih.gov/6786155/}. Por tanto, la falta de cinc puede agravar la deficiencia de vitamina A.\n\n· Vitamina D y calcio:\nLa vitamina D aumenta fuertemente la absorción de calcio en el intestino \\url{https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/}, y sin un nivel de vitamina D adecuado, incluso dietas ricas en calcio se absorben pobremente. La vitamina D requiere transporte lipídico, y su biodisponibilidad se potencia con grasa en la comida. A su vez, suficientes niveles de calcio y magnesio son necesarios para la activación hepática/renal de la vitamina D.\n\n· Vitamina E y vitamina C:\nLa vitamina E, antioxidante en membranas, se regenera gracias a la vitamina C oxidada \\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC3156342/}. Consumir suficiente vitamina C asegura que el alfa-tocoferol oxidado vuelva a su forma activa, fortaleciendo la protección de ácidos grasos poliinsaturados."
+        ]
+      },
+      "Vitaminas hidrosolubles (C y complejo B)":
+      {
+        "diff": 5,
+        "content":
+        [
+          "· Vitamina C:\nEs el más importante potenciador de hierro no hemo. Al estar presente en la comida con hierro (de origen vegetal), forma quelatos solubles de hierro (II) que escapan la precipitación alcalina, aumentando la absorción de hierro de ingredientes como las lentejas o las espinacas \\url{https://pubmed.ncbi.nlm.nih.gov/6940487/}. También contrarresta inhibidores parcialmente, como los taninos del té y del calcio sobre el hierro. Además, la vitamina C protege al folato de la oxidación y facilita su conversión a formas monoglutamato absorbibles en el intestino \\url{https://bmchematol.biomedcentral.com/articles/10.1186/s12878-018-0107-2}, aumentando la biodisponibilidad del folato dietario.\n\n· B12 y folato:\nAmbos están interrelacionados por la 'hipótesis de la trampa del metilo'. Sin B12 suficiente, el 5-metiltetrahidrofolato queda 'atrapado' y no puede regenerarse, provocando deficiencia funcional de folato aún con ingesta normal de folatos \\url{https://pubmed.ncbi.nlm.nih.gov/3927946/}. Por lo tanto, la deficiencia de cobalamina causa un 'efecto deficiencia' de folato. Otra sinergia es B6, B12 y folatos, que conjuntamente participan en el metabolismo de la homocisteína: dosis adecuadas reducen sinérgicamente los niveles de homocisteína en sangre (factores de riesgo cardiovascular) \\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC10600480/}.\n\n· Niacina y triptófano:\nEl triptófano (un aminoácido) puede convertirse en niacina (vitamina B3) cuando la dieta lo requiere: se estima que 60 mg de triptófano equivalen a 1 mg de niacina, lo que significa que dietas bajas en niacina pero ricas en triptófano (o proteína) pueden prevenir las manifestaciones de la deficiencia de niacina.\n\n· B6 y riboflavina:\nLa riboflavina (vitamina B2) es cofactor para la forma activa de la B6 (piridoxal fosfato). Niveles adecuados de B2 son, por tanto, necesarios para que la piridoxina se convierta en su coenzima, y eso significa que deficiencia de B2 puede inducir a una deficiencia secundaria de B6.\n\nEn general, las vitaminas de complejo B se encuentran en alimentos de origen animal (excepto el ácido fólico de los vegetales), por lo que una dieta equilibrada provee las cantidades necesarias y reduce déficits mutuos."
+        ]
+      },
+      "Minerales":
+      {
+        "diff": 4,
+        "content":
+        [
+          "· Hierro (Fe):\nMejora su absorción con vitamina C \\url{https://pubmed.ncbi.nlm.nih.gov/6940487/} y con los péptidos derivados de la carne \\url{https://pubmed.ncbi.nlm.nih.gov/17056805/}, pero se ve inhibido por el calcio \\url{https://pubmed.ncbi.nlm.nih.gov/9174476/}, y aunque el organismo pueda llegar a compensarlo \\url{https://pubmed.ncbi.nlm.nih.gov/21462112/}, se recomienda tomar calcio y hierro por separado. Más inhibidores del hierro son los taninos y polifenoles (té, café, vino... reducen 27-40% su captación), los fitatios (cereales integrales, legumbres) \\url{https://pubmed.ncbi.nlm.nih.gov/20715598/}, y oxalatos (espinacas, acelgas...), que se unen al hierro y reducen su absorción.\n\n· Calcio (Ca):\nLa vitamina D es fundamental para el calcio, al promover la absorción intestinal del mismo \\url{https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/}, y una dieta rica en proteínas también aumenta su absorción \\url{https://pubmed.ncbi.nlm.nih.gov/12936953/}, debido a que los péptidos proteicos pueden aumentar la solubilidad de calcio. También existen varios inhibidores: los oxalatos y fitatos forman complejos insolubles con calcio. Las hojas de espinaca o betarraga, ricas en oxalato, proveen mucho calcio en análisis pero en muy baja absorción (más del 80% no es absorbible), y efectos similares se ven con los fitatos de los cereales. También hay estudios que muestran un pequeño efecto adverso de la cafeína sobre la absorción de calcio \\url{https://pubmed.ncbi.nlm.nih.gov/12204390/}, pero este efecto es insignificante con una ingesta adecuada de calcio.\n\n· Cinc (Zn):\nLos fitatos son el mayor antagonista dietario del cinc, similar a su efecto sobre el hierro, y dosis altas de calcio también reducen la absorción de cinc. Proteínas animales y péptidos, no obstante, aumentan su absorción, como con aminoácidos quelantes (histidina, cisteína), que facilitan su captación en el intestino. La combinación de vitamina C y cinc también es beneficiosa, al potenciar la respuesta inmune y aliviar los síntomas del resfriado (y además este par actúa sinérgicamente cuando se administran juntos).\n\n· Magnesio (Mg):\nEl magnesio es cofactor en las enzimas de activación de la vitamina D, y por ende, la deficiencia de magnesio puede disminuir la producción de calcitriol (forma activa de la vitamina D, fundamental para la absorción de calcio y fósforo), impactando el metabolismo de calcio. Un ejemplo beneficioso es suplementar magnesio y vitamina B6 durante un ciclo menstrual, ya que reduce los síntomas de ansiedad premenstrual más que cada nutriente por separado, lo que indica una clara sinergia terapéutica."
+        ]
+      },
+      "Fitoquímicos":
+      {
+        "diff": 3,
+        "content":
+        [
+          "· Polifenoles:\nLos taninos y otros polifenoles inhiben la absorción de hierro no hemo \\url{https://pubmed.ncbi.nlm.nih.gov/6940487/}, y pueden disminuir la captación de cinc \\url{https://pubmed.ncbi.nlm.nih.gov/11818421/}. Por ello, es recomendable no acompañar con té o café comidas muy ricas en hierro o suplementos de hierro.\n\n· EGCG:\nEn dosis elevadas, este catecismo del té verde reduce la absorción de hierro en un 14-27% (con 150-300 mg de EGCG) \\url{https://pubmed.ncbi.nlm.nih.gov/16008116/}. Además, el EGCG se une al hierro formando complejos que anulan la actividad antioxidante del propio EGCG \\url{https://www.psu.edu/news/research/story/green-tea-and-iron-bad-combination}, por lo que combinar té verde con alimentos ricos en hierro 'cancela' parte de sus efectos. No obstante, la epigalocatequina galato actúa como un potente antioxidante, y en combinación con vitamina C o vitamina E muestra efectos sinérgicos, como contra la peroxidación lipídica \\url{https://pubmed.ncbi.nlm.nih.gov/18554517/}.\n\n· Inulina:\nLa inulina es una fibra soluble fermentable que estimula la absorción de calcio y magnesio en el colon \\url{https://pubmed.ncbi.nlm.nih.gov/15340751/}. Este efecto es relevante para mejorar la densidad ósea.\n\n· Fitoesteroles:\nSu principal función es bloquear la absorción de colesterol en el intestino (hasta un 8-15%), y aunque no interfieren significativamente con la absorción de vitaminas hidrosolubles y minerales, sí pueden disminuir los carotenoides y tocoferoles \\url{https://pmc.ncbi.nlm.nih.gov/articles/PMC5346416/}.\n\n· Licopeno:\nLa absorción de licopeno (el carotenoide del tomate) aumenta cuando se consume con grasas, especialmente las monoinsaturadas. Estudios demuestran que acompañar alimentos ricos en licopeno con aceite (grasas) mejora sus niveles plasmáticos y actividad antioxidante \\url{https://pubmed.ncbi.nlm.nih.gov/11084294/}."
+        ]
+      }
+    }
+  },
+  "Clasificación de nutrientes": {
+    "priority": 50,
+    "entries":
+    {
+      "Introducción":
+      {
+        "diff": 1,
+        "content":
+        [
+          "El ser humano renueva sus tejidos a un ritmo diferente en cada etapa de la vida, y para realizar este proceso necesita energía y nutrientes, distribuidos en hidratos de carbono (azúcares y almidones), lípidos (con 2-3 ácidos grasos esenciales), proteínas (con 8 aminoácidos esenciales), fibra, 13 vitaminas y 20 minerales. Los tres primeros se encuentran en mayores cantidades en los alimentos, por lo que se denominan macronutrientes, mientras que las vitaminas y minerales, al constituir una parte más pequeña, reciben el nombre de micronutrientes."
+        ]
+      },
+      "Macronutrientes":
+      {
+        "diff": 2,
+        "content":
+        [
+          "· Energía:\nNecesaria para llevar a cabo todas las funciones vitales, como el funcionamiento del sistema nervioso y el corazón. La energía se suministra al organismo por la oxidación de los macronutrientes, por lo que cada alimento es una fuente de energía variable, que depende de su contenido en hidratos de carbono, grasas y proteínas.\n\nEquilibrar la ingesta calórica y las necesidades de energía es el principal factor en el peso corporal, donde al aportar más energía de la necesaria se almacena el exceso en forma de grasa (provocando a la larga sobrepeso), y al aportar menos, el organismo usa las reservas corporales de grasa y proteínas (dando lugar a malnutrición).\n\n· Proteínas:\nEl principal constituyente de las células. Están formadas por cadenas de aminoácidos, diferenciándose entre aminoácidos esenciales (si no pueden ser sintetizados por el organismo) o no esenciales. Los esenciales son la histidina, isoleucina, leucina, lisina, metionina, fenilalanina, treonina, triptófano y valina, aunque la arginina puede ser esencial en niños pequeños al necesitar más de lo que pueden sintetizar.\n\nEn general, las proteínas de procedencia animal tienen un mayor valor biológico (contiene todos los aminoácidos esenciales en las proporciones necesarias) que las proteínas vegetales, porque su composición en aminoácidos es más parecida a las proteínas corporales. Sin embargo, la calidad individual de las proteínas no es tan relevante en dietas mixtas al existir la complementación entre aminoácidos (como al juntar cereales y legumbres; el aminoácido de una proteína compensa la deficiencia de la otra, dando lugar a una proteína de alto valor biológico).\n\n· Lípidos:\nPresentan un mayor valor calórico que el resto de macronutrientes. Son indispensables debido a que forman parte de las membranas celulares, y además, son el elemento vehicular de las vitaminas liposolubles (A, D, E y K), por lo que son necesarios para absorberlas. Existen ácidos grasos esencias que el ser humano no puede sintetizar, y tienen una CDR diferente precisamente por su importancia, destacando entre ellos el ácido linoleico.\n\nLos lípidos se pueden clasificar en grasas saturadas (AGS, como el ácido butírico (4:0) o el cáprico (10:0)), grasas monoinsaturadas (AGM, como el ácido oleico (18:1, n-9)) y grasas poliinsaturadas (AGP, como el ácido linoleico (18:2, n-6) y el ácido alfa-linolénico (18:3, n-3)).\n\n· Hidratos de carbono:\nAportan energía, aunque con un rendimiento mucho menor al de la grasa. La unidad básica son los monosacáricos (azúcares simples), de entre los que destacan la glucosa, la fructosa y la galactosa. Dos monosacáridos forman los disacáridos, como la sacarosa (glucosa + fructosa), la lactosa (glucosa + galactosa) y la maltosa (dos glucosas).\n\nLos hidratos de carbono simples (azúcares) se absorben rápidamente, causando un aumento inmediato del azúcar en sangre (glucemia), mientras que los hidratos de carbono complejos (almidones y fibra) se digieren más lentamente, proporcionando energía sostenida."
+        ]
+      },
+      "Micronutrientes: Vitaminas":
+      {
+        "diff": 2,
+        "content":
+        [
+          "Son muy sensibles a diferentes agentes fisicoquímicos (calor, luz, agua, ácidos, bases...), por lo que sufren más pérdidas durante el cocinado. Esto es especialmente cierto en las vitaminas hidrosolubles (como la vitamina C y la vitamina B1), y por esa razón, estimar la cantidad real de vitaminas asimiladas es complejo, al depender de múltiples factores.\n\nLas vitaminas liposolubles (A, D, E y K) son solubles en lípidos pero no en el agua, lo que significa que se vehiculizan en la grasa de los alimentos.\n\nLas vitaminas hidrosolubles (de complejo B y la vitamina C) están contenidas en los compartimentos acuosos de los alimentos, y son las principales fuentes alimentarias de vitaminas."
+        ]
+      },
+      "Micronutrientes: Minerales":
+      {
+        "diff": 2,
+        "content":
+        [
+          "Dentro de los minerales, los que están en mayor cantidad se denominan macrominerales (calcio, fósforo, potasio, sodio, magnesio...) y el resto se conocen como los oligoelementos (hierro, cinc, selenio, manganeso...). Esta clasificación es simplemente representativa a nivel de cantidades, pero no indica el nivel de importancia de cada uno.\n\n· Calcio (Ca):\nEs el mineral más presente en el organismo, principalmente en huesos y dientes. Resulta esencial para el crecimiento y para mantener los tejidos óseos.\n\n· Hierro (Fe):\nMás de la mitad del hierro del organismo es parte de la hemoglobina de la sangre, que transporta el oxígeno. Las principales fuentes de hierro en la dieta son, además de la sangre, las vísceras y las carnes rojas (hierro hemo, de alta utilización). Las leguminosas, frutos secos y algunas verduras suministran un hierro de menor biodisponibilidad (hierro no hemo), que además, cuenta con un factor de absorción mucho menor.\n\n· Yodo (I):\nSe encuentra en la glándula tiroidea, siendo el yodo fundamental para sintetizar las hormonas de dicha glándula. Las fuentes de yodo más ricas son pescados, mariscos, leche y huevos.\n\n· Magnesio (Mg):\nEs un cofactor de cientos de enzimas (metabolismo energético, función nerviosa y muscular), y generalmente, la ingesta es subóptima. Unos niveles bajos de magnesio se asocian con diabetes tipo 2, hipertensión, enfermedades cardiovasculares e inflamación.\n\n· Cinc (Zn):\nForma parte de un gran número de enzimas, y resulta esencial para el crecimiento y para mantener el sentido del gusto (y por ende, el apetito). Las ostras son especialmente ricas en cinc, pero otras fuentes son las proteínas, tanto de carnes rojas como de leguminosas.\n\n· Sodio (Na):\nPrincipal catión de los líquidos extracelulares, y su función es indispensable para la transmisión nerviosa, la contracción muscular y la regulación del acidobase. Casi todas las poblaciones consumen demasiado sodio, y ese exceso causa hipertensión y contribuye a unas 1.9 millones de muertes anuales.\n\n· Potasio (K):\nElectrolito crucial que ejerce una acción complementaria a la del sodio en el funcionamiento de las células. Una mayor ingesta de potasio reduce la presión arterial y el riesgo cardiovascular, pero muchas dietas son pobres en potasio (bajas en frutas y verduras).\n\n· Fósforo (P):\nEsencial para la salud ósea y el metabolismo energético (ATP). Abunda en alimentos proteicos, y la deficiencia real es muy rara.\n\n· Selenio (Se):\nAntioxidante traza (cofactor de la glutatión peroxidasa) y necesario para la función tiroidea. Una ingesta moderada reduce el estrés oxidativo, pero en exceso es tóxico."
+        ]
+      },
+      "Fitoquímicos":
+      {
+        "diff": 3,
+        "content":
+        [
+          "Existen muchos tipos de fitoquímicos (químicos de las plantas), y suelen pasar desapercibidos a la hora de formar una dieta equilibrada. Ejemplos serían los taninos, los fitatos y los oxalatos, pero los más representativos son los fitoesteroles, los carotenoides y los polifenoles.\n\n· Fitoesteroles:\nSon compuestos esteroles de origen vegetal que pueden ayudar a reducir el colesterol en sangre al interferir con la absorción intestinal del colesterol.\n\n· Polifenoles:\nCompuestos fenólicos (flavonoides, ácidos fenólicos, EGCG...) con amplios efectos antioxidantes y antiinflamatorios. Existen estudios que los vinculan a un menor riesgo de enfermedades cardiovasculares, cáncer y diabetes.\n\n· Carotenoides:\nA diferencia de la mayoría de nutrientes, los carotenos suelen aumentar tras la cocción, como es el caso del licopeno. Tienen funciones diversas: las xantofilas (luteína y zeaxantina, por ejemplo) se acumulan en la retina y la protegen frente a la degeneración macular de la edad, y la criptoxantina (pigmento natural anaranjado) puede ser convertida en vitamina A por el cuerpo."
+        ]
+      }
+    }
+  },
+  "Conservación de los alimentos": {
+    "priority": 50,
+    "entries":
+    {
+      "Introducción":
+      {
+        "diff": 1,
+        "content":
+        [
+          "La vida útil e un alimento es el tiempo durante el cual permanece inocuo pero manteniendo su sabor y nutrientes (en cierta medida, claro está). Para prolongar esa vida útil se aplican diversos métodos, los cuales inciden en factores clave (agua, temperatura...) que frenan el deterioro y el crecimiento bacteriano."
+        ]
+      },
+      "Factores clave en la durabilidad":
+      {
+        "diff": 2,
+        "content":
+        [
+          "· Agua:\nLas bacterias y los hongos necesitan agua para crecer. Por eso existen técnicas como la deshidratación (secado al sol o al horno) y el uso de sal o azúcar, que extraen agua de los alimentos. Por ejemplo, el azúcar de las mermeladas induce plasmólisis bacteriana, y la sal en salmuera inhibe microbios.\n\n· Ácidos:\nLos ambientes muy ácidos (como el vinagre o la fermentación láctica) inactivan gran parte de los patógenos. En el encurtido químico se sumergen los alimentos en salmuera o vinagre, mientras que en el encurtido fermentativo (como el chucrut o el kimchi), bacterias lácticas producen ácido que preserva el alimento.\n\n· Temperatura:\nEl frío reduce drásticamente la velocidad del deterioro. En la nevera (a unos 0-5 grados) las reacciones químicas y la proliferación bacteriana son lentas, prolongando la vida útil varios días. La congelación profunda (a -18 grados) cristaliza el agua, impidiendo el crecimiento microbiano (la FDA dice que se mantienen seguros indefinidamente, pero por calidad se recomiendan de 2 a 6 meses para los platos preparados).\n\n· Oxígeno:\nReducir el oxígeno retrasa la oxidación y el crecimiento de aeróbicos. El envasado al vacío extrae el aire de bolsas o frascos, eliminando así el oxígeno necesario para muchos gérmenes."
+        ]
+      },
+      "Valores base en refrigeración":
+      {
+        "diff": 1,
+        "content":
+        [
+          "Dado que congelar alimentos a -18 grados los mantiene seguros por un tiempo indefinido, los siguientes tiempos (N para nevera y C para congelador) de almacenamiento recomendados se proporcionan sólo por motivos de calidad.\n\n· Huevos:\nFrescos, con cáscara: 3-5 semanas (N), no apto para congelar.\nYemas y claras crudas: 2-4 días (N), 1 año (C).\nHuevos duros: 1 semana (N), pero no se congelan bien.\nHuevos pasteurizados líquidos o sustitutos de huevos: abiertos duran 3 días (N) y no son aptos para congelar, pero cerrados duran 10 días (N) y pueden resistir 1 año (C).\n\n· Sopas y guisos:\nCon verduras o carne de res: 3-4 días (N) y 2-3 meses (C).\nGuisos congelados y comidas listas para calentar: 3-4 meses (C).\n\n· Preparados y envasados al vacío (no se congelan bien):\nEnsaladas con huevos, pollo, atún, jamón: 3-5 días (N).\nComidas envasadas al vacío de marcas comerciales: 2 semanas (N).\nComidas preparadas en tienda: 3-4 días (N).\nChuletas prerellenas o pechugas de pollo rellenas: 1 día (N).\n\n· Carne molida y para guiso (crudas):\nCarne para hamburguesas: 1-2 días (N), 3-4 meses (C).\nCarne de pavo, ternera, cerdo o cordero (molidos): 1-2 días (N), 3-4 meses (C).\n\n· Jamón, salchichas y tocino:\nJamón cocido (entero): 7 días (N), 1-2 meses (C).\nJamón cocido (mitad): 3-5 días (N), 1-2 meses (C).\nJamón cocido (rebanadas): 3-4 días (N), 1-2 meses (C).\nJamón serrano o similares: 2-3 meses (N), 6 meses (C), aunque se recomienda consumir antes de 3 meses si se congela.\nPerritos calientes: 1 semana (N), 1-2 meses (C).\nFiambres (envase abierto): 3-5 días (N), 1-2 meses (C).\nFiambres (envase cerrado): 2 semanas (N), 1-2 meses (C).\nTocino: 7 días (N), 1 mes (C).\nSalchichas de carne cruda: 1-2 días (N), 1-2 meses (C).\nSalchichas ahumadas: 7 días (N), 1-2 meses (C).\n\n",
+          "· Carne de res:\nBistecs: 3-5 días (N), 6-12 meses (C).\nChuletas: 3-5 días (N), 4-6 meses (C).\nCarne para asar: 3-5 días (N), 4-12 meses (C).\nInteriores (lengua, riñones, hígado...): 1-2 días (N), 3-4 meses (C).\nCarne de res cocida y platos de carne de res: 3-4 días (N), 2-3 meses (C).\nSalsa y caldo de carne: 1-2 días (N), 3-4 meses (C).\n\n· Carne de pollo:\nPollo o pavo (entero): 1-2 días (N), 1 año (C).\nPollo o pavo (presas): 1-2 días (N), 9 meses (C).\nMenudillos: 1-2 días (N), 3-4 meses (C).\nPollo frito o cocido sin condimentos: 3-4 días (N), 4 meses (C).\nPlatos de pollo cocido: 3-4 días (N), 4-6 meses (C).\nPollo en trozos cubiertos con caldo o salsa: 3-4 días (N), 6 meses (C).\nTrocitos y hamburguesas de pollo: 3-4 días (N), 1-3 meses (C).\n\n",
+          "· Pescados y mariscos:\nPescados magros: 1-2 días (N), 6-8 meses (C).\nPescados grasos: 1-2 días (N), 2-3 meses (C).\nPescado cocido: 3-4 días (N), 4-6 meses (C).\nPescado ahumado: 14 días (N), 2 meses (C).\nCamarones, langostas y calamares frescos: 1-2 días (N), 3-6 meses (C).\nPescados en lata: 3-4 días tras abrir (N), 2 meses fuera de la lata (N), 5 años (C).\nCangrejo: 2-4 días (N), 2-4 meses(C).\nAlmejas y similares (vivas): 5-10 días (N), y no se recomienda congelarlas.\nAlmejas y similares (abiertas): 3-10 días (N), 3-4 meses (C).\n\n",
+          "· Frutas:\nDe 5 a 12 días generalmente (N), excepto los cítricos que aguantan hasta 20 días, pero la lima y el limón son muy sensibles al frío. Para el congelado, las frutas de hueso, semilla y tropicales suelen aguantar 10-12 meses, mientras que las bayas y los cítricos duran 1-2 meses.\n\n",
+          "· Hortalizas:\nEn nevera, las hojas aguantan de 2-6 días, las raíces 6-7 días, las setas 2-3 días, las inflorescencias 7-9 días, los frutos 1-2 semanas, y el resto 2-7 días. En el congelador, las raíces pueden soportar 10-12 meses, los tallos 5-6 meses, los frutos 4-6 meses y el resto 6-8 meses.\n\n",
+          "· Sobras:\nCroquetas o medallones de pollo: 3-4 días (N), 1-3 meses (C).\nPizza: 3-4 días (N), 1-2 meses (C)."
+        ]
+      },
+      "Heurística de conservación":
+      {
+        "diff": 2,
+        "content":
+        [
+          "Para calcular los días de conservación de una receta, lo primero es tomar los valores base de conservación, vistos anteriormente. Puede ajustarse según la temperatura: cada descenso de 10 grados duplica la vida útil (aproximadamente). De esta forma, un plato que duraría 1 día a 20 grados, durará 2 veces más cada 10 grados que bajemos. A 4 grados la duración sería 3-4 veces mayor que a 20 grados, lo que coincide con los 3-4 días que la mayoría de comidas preparadas aguantan.\n\nSi la receta contiene ingredientes muy perecederos (mariscos, crema...), conviene usar el límite inferior de días, pero si la receta puede encurtirse, la vida útil aumenta mucho (las conservas caseras duran 1-2 años).\n\nUna fórmula orientativa es: Vida útil = Vida útil a temperatura de referencia · 10 ^([-Temperatura real - Temperatura de referencia] / 10). Esto refleja lo que se ha mencionado: por cada 10 grados de descenso en la temperatura real, se duplica aproximadamente el valor de la vida útil."
+        ]
+      }
+    }
+  },
   "0 - Título": {
     "priority": -1,
     "entries":
